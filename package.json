@@ -1,0 +1,19 @@
+{
+  "name": "keyboard",
+  "version": "0.0.0",
+  "description": "Keyboard example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuzanatoliy/keyboard.git"
+  },
+  "author": "kuzanatoliy <njkznu@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuzanatoliy/keyboard/issues"
+  },
+  "homepage": "https://github.com/kuzanatoliy/keyboard#readme"
+}
